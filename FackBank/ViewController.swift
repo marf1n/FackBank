@@ -1,0 +1,22 @@
+//
+//  ViewController.swift
+//  FackBank
+//
+//  Created by Vladyslav Filippov on 08.11.16.
+//  Copyright © 2016 Vladyslav Filippov. All rights reserved.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view, typically from a nib.
+    }
+
+  
+
+
+}
+
